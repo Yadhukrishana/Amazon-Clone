@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar
+{
+height:60px;
+background-color: #0f1111;
+color: white;
+align-items: center;
+}
+.navlogo{
+    height: 60px;
+    width: 130px;
+}
+.logo{
+    height: 60px;
+    width: 130px;
+background-image: url(Assetes/amazon_logo.png);
+background-size: cover;
+}
+
+.border:hover{
+    border: 2px solid  white;
+}
+
+.address{
+  color: #cccccc;
+  font-size: 1rem;
+
+}
